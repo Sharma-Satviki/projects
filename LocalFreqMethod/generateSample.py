@@ -1,6 +1,6 @@
 import numpy as np
 from scipy.stats import binom
-from scipy.optimize import minimize # type: ignore
+from scipy.optimize import minimize 
 
 # Step 2: Generate Random Data (Binomial Distribution)
 n_true = 100    # true number of trials
